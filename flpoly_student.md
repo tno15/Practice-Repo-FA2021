@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Jonathan
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Programming:Python
 
-- Course 2
+- Intro to DS
 
-- Course 3
+- Cloud infrastructure and services
 
-- Course 4
+- Analytic Geometry
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Horror ARGs, this is one of my favorites <https://www.youtube.com/channel/UC_b4VvmzIVwf8bCC-eoMDzg/videos>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
