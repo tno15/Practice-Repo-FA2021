@@ -19,7 +19,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 |**CTS**|**2375**|*Cloud Infrastructure and Services*|3|
 |**MAC**|**2311**|*Analytic Geometry and Calculus 1*|4|
 
-![](c:/Users/tno15/Documents/Working_with_Rstudio/DS_course/Practice-Repo-FA2021/Markdown Code.jpg)
+![](https://raw.githubusercontent.com/tno15/Practice-Repo-FA2021/main/Markdown%20Code.jpg)
 
 **Hobbies:**
 
