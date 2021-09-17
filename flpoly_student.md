@@ -19,7 +19,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 |**CTS**|**2375**|*Cloud Infrastructure and Services*|3|
 |**MAC**|**2311**|*Analytic Geometry and Calculus 1*|4|
 
-![](Markdown Code.png)
+![](/Users/tno15/Documents/Working_with_Rstudio/DS_course/Practice-Repo-FA2021/Markdown Code.png)
 
 **Hobbies:**
 
@@ -33,4 +33,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/08/31
+> Last modified: 2021/09/17
