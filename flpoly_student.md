@@ -12,6 +12,13 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Analytic Geometry
 
+|Prefix|Number|Name   |Credits|
+|:----:|:----:|:------|:-----:|
+|**COP**|**2034**|*Introduction to Programming Using Python*|3|
+|**COP**|**2073**|*Introduction to Data Science*|3|
+|**CTS**|**2375**|*Cloud Infrastructure and Services*|3|
+|**MAC**|**2311**|*Analytic Geometry and Calculus 1*|4|
+
 **Hobbies:**
 
 I am _passionate about_: 
