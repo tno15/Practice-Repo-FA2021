@@ -19,7 +19,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 |**CTS**|**2375**|*Cloud Infrastructure and Services*|3|
 |**MAC**|**2311**|*Analytic Geometry and Calculus 1*|4|
 
-![](Markdown Code.png "Please Work")
+![](Markdown Code.jpg "Please Work")
 
 **Hobbies:**
 
